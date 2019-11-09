@@ -1,37 +1,38 @@
-import { Component } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
 import { AuthService } from "../servicios/auth.service";
-import { ActionSheetController } from '@ionic/angular';
+import { ActionSheetController, IonSegment } from '@ionic/angular';
+import { DataService } from '../servicios/data.service';
+import { Observable } from 'rxjs';
+
 
 @Component({
   selector: 'app-home',
   templateUrl: 'home.page.html',
   styleUrls: ['home.page.scss'],
 })
-export class HomePage {
+export class HomePage implements OnInit{
+  data: Observable<any>;
+  switch: string;
+  //@ViewChild(IonSegment) segment: IonSegment;
 
-  constructor(public authservice : AuthService, public actionSheetController: ActionSheetController   ) {}
-  Onlogout(){
+  constructor(public authservice : AuthService, 
+    public actionSheetController: ActionSheetController,
+    private dataService: DataService ) {}
+    
+
+    ngOnInit(){
+     this.switch = "tu_bebe";
+     this.data = this.dataService.getDatos();
+    }
+    Onlogout(){
       this.authservice.logout();
   }
 
-    slides:{img:string,titulo:string,desc:string}[]=[
-      {
-        img:'/assets/slides/photos.png',
-        titulo:'Semana 1',
-        desc:'ljasjdiajsdijaisdjisjaidji'
-       },
-       {
-        img:'/assets/slides/photos.png',
-        titulo:'Semana 2',
-        desc:'lhola'
-       },
-       {
-        img:'/assets/slides/photos.png',
-        titulo:'Semana 3',
-        desc:'ljasjdiajsdijaisdjisjaidji'
-       }
-    ];
-    async presentActionSheet() {
+  segmentChanged(event){
+      const valorSegmento = event.detail.value;
+      console.log(valorSegmento);
+  }
+  async presentActionSheet() {
     const actionSheet = await this.actionSheetController.create({
       header: 'Opciones',
       buttons: [{
@@ -45,4 +46,6 @@ export class HomePage {
     });
     await actionSheet.present();
   }
+   // componentes:Componente[] = [];
+ 
 }

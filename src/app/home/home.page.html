@@ -12,14 +12,52 @@
 <ion-content color="claro">
     <ion-slides class="slide-full" >
        
-        <ion-slide *ngFor="let slide of slides">
-          <ion-card>
-            <ion-card-header>
-              <ion-card-title> {{ slide.titulo }} </ion-card-title>
+        <ion-slide *ngFor="let slide of data | async">
+          <ion-card color="light">
+            <ion-card-header >
+                <ion-title class="ion-text-center" color="secondary">
+                    Semana {{ slide.id }}
+                   </ion-title>
             </ion-card-header>
-
+                       
             <ion-card-content>
-              {{slide.desc}}
+
+                <ion-row class="ion-text-left">
+                  <ion-col size="5">
+                      <img [src]="slide.img" class="slide-image">
+                  </ion-col>      
+                 
+                        <ion-col size="5">
+                          <br>
+                          <p>
+
+                            Peso: {{ slide.peso}}
+                            <br>
+                            Tamaño: {{ slide.tamano}}
+                            <br>
+                              (Cabeza a trasero)
+                            </p>
+                            </ion-col>
+                </ion-row>
+                
+                <ion-segment color="secondary" [(ngModel)]="switch">
+                    <ion-segment-button value="tu_bebe">
+                        Tu bebe
+                    </ion-segment-button>
+                    <ion-segment-button value="tu_cuerpo">
+                        Tu cuerpo
+                    </ion-segment-button>
+                   
+                  </ion-segment>
+                  <div [ngSwitch]="switch">
+                    <ion-list *ngSwitchCase="'tu_bebe'">
+                      <ion-item> <p>{{slide.desc}}</p></ion-item>
+                    </ion-list>
+                    <ion-list *ngSwitchCase="'tu_cuerpo'">
+                      <ion-item><p>Wea</p></ion-item>
+                    </ion-list>
+                  </div>
+              
             </ion-card-content>
 
           </ion-card>

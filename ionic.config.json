@@ -1,5 +1,7 @@
 {
   "name": "EmbarazoApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

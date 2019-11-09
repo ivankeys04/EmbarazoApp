@@ -11,6 +11,8 @@ import { AppRoutingModule } from './app-routing.module';
 
 import { firebaseConfig } from "../environments/environment";
 
+import { HttpClientModule } from "@angular/common/http";
+
 import { AngularFireModule } from "@angular/fire";
 import { AngularFireAuthModule } from "@angular/fire/auth";
 import { AngularFirestoreModule, FirestoreSettingsToken } from "@angular/fire/firestore";
@@ -19,7 +21,7 @@ import { AngularFirestoreModule, FirestoreSettingsToken } from "@angular/fire/fi
   declarations: [AppComponent],
   entryComponents: [],
   imports: [BrowserModule, IonicModule.forRoot(), AppRoutingModule,AngularFireModule.initializeApp(firebaseConfig),
-    AngularFireAuthModule, AngularFirestoreModule],
+    AngularFireAuthModule, AngularFirestoreModule,HttpClientModule],
   providers: [
     StatusBar,
     SplashScreen,
