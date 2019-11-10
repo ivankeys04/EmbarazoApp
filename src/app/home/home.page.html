@@ -1,5 +1,6 @@
 <ion-header>
   <ion-toolbar color="favorite">
+   
       <ion-button color="secondary" slot="end" fill= "clear" (click)="presentActionSheet()">
         <ion-icon name="menu"></ion-icon>  
       </ion-button>
@@ -9,18 +10,18 @@
   </ion-toolbar>
 </ion-header>
 
-<ion-content color="claro">
-    <ion-slides class="slide-full" >
-       
+<ion-content fullscreen color="claro">
+
+    <ion-slides class="slide-full" >   
         <ion-slide *ngFor="let slide of data | async">
-          <ion-card color="light">
+          <ion-card color="claro">
             <ion-card-header >
                 <ion-title class="ion-text-center" color="secondary">
                     Semana {{ slide.id }}
                    </ion-title>
             </ion-card-header>
                        
-            <ion-card-content>
+            <ion-card-content no-border >
 
                 <ion-row class="ion-text-left">
                   <ion-col size="5">
@@ -29,15 +30,14 @@
                  
                         <ion-col size="5">
                           <br>
-                          <p>
-
+                            <p>
                             Peso: {{ slide.peso}}
                             <br>
                             Tamaño: {{ slide.tamano}}
                             <br>
                               (Cabeza a trasero)
                             </p>
-                            </ion-col>
+                          </ion-col> 
                 </ion-row>
                 
                 <ion-segment color="secondary" [(ngModel)]="switch">
@@ -48,12 +48,12 @@
                         Tu cuerpo
                     </ion-segment-button>
                     <ion-segment-button value="consejo">
-                        Consejo
+                        Consejo salud
                     </ion-segment-button>
                    
                   </ion-segment>
                   <div [ngSwitch]="switch">
-                    <ion-list *ngSwitchCase="'tu_bebe'">
+                    <ion-list no-border *ngSwitchCase="'tu_bebe'">
                       <ion-item> <p>{{slide.bebe}}</p></ion-item>
                     </ion-list>
                     <ion-list *ngSwitchCase="'tu_cuerpo'">
@@ -65,8 +65,31 @@
                   </div>
               
             </ion-card-content>
-
+            <br>
+            <br><br><br>
+            <ion-footer>
+                <ion-fab   horizontal="end" vertical="bottom" slot="fixed">
+                    <ion-fab-button color="favorite">
+                        <ion-icon name="arrow-dropleft"></ion-icon>
+                    </ion-fab-button>
+                    <ion-fab-list side="start">
+                      <ion-fab-button color="claro">
+                        <ion-icon name="logo-facebook"></ion-icon>
+                      </ion-fab-button>
+                      <ion-fab-button color="claro">
+                        <ion-icon name="logo-twitter"></ion-icon>
+                      </ion-fab-button>
+                      <ion-fab-button color="claro">
+                        <ion-icon name="logo-whatsapp"></ion-icon>
+                      </ion-fab-button>
+                    </ion-fab-list>
+                  </ion-fab>
+              </ion-footer>
+            
           </ion-card>
+          
         </ion-slide>
+        
       </ion-slides>
+      
 </ion-content>
