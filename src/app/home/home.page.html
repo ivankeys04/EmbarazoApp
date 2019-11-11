@@ -11,8 +11,13 @@
 </ion-header>
 
 <ion-content fullscreen color="claro">
-
-    <ion-slides class="slide-full" >   
+  <div style="position: absolute;top: 50%;left: 16px;font-size: 25px;z-index: 2;" (click)="slidePrev()">
+    <ion-icon name="arrow-back"></ion-icon>
+  </div>
+  <div style="position: absolute;top: 50%;right: 16px;font-size: 25px;z-index: 2;" (click)="slideNext()">
+    <ion-icon name="arrow-forward"></ion-icon>
+  </div>
+    <ion-slides paginationType="bullets" slidesPerView="1" pager="true" class="slide-full" >   
         <ion-slide *ngFor="let slide of data | async">
           <ion-card color="claro">
             <ion-card-header >
@@ -70,16 +75,16 @@
             <ion-footer>
                 <ion-fab   horizontal="end" vertical="bottom" slot="fixed">
                     <ion-fab-button color="favorite">
-                        <ion-icon name="arrow-dropleft"></ion-icon>
+                        <ion-icon color="secondary" name="share"></ion-icon>
                     </ion-fab-button>
                     <ion-fab-list side="start">
-                      <ion-fab-button color="claro">
+                      <ion-fab-button color="claro" (click)="shareFacebook()">
                         <ion-icon name="logo-facebook"></ion-icon>
                       </ion-fab-button>
-                      <ion-fab-button color="claro">
+                      <ion-fab-button color="claro"(click)="shareTwitter()">
                         <ion-icon name="logo-twitter"></ion-icon>
                       </ion-fab-button>
-                      <ion-fab-button color="claro">
+                      <ion-fab-button color="claro" (click)="shareWhatsapp()">
                         <ion-icon name="logo-whatsapp"></ion-icon>
                       </ion-fab-button>
                     </ion-fab-list>

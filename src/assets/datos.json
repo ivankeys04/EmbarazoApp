@@ -1,29 +1,194 @@
 [
    {
      "id":"0",
-     "img":"/assets/images/1.png",
+     "img":"/assets/images/0.png",
      "peso":"0 gr",
      "tamano":"0.1 mm",
      "bebe":"Una vez que tu óvulo ha sido fertilizado. éste, en tan sólo un día se divide en 2. Este proceso continuará los siguientes días y se formará una bola llamada  Blastocisto con más de 100 células. A los 5 días las células empiezan a dividirse en 2 grupos:  La placenta que es dónde se acogerá a tú bebé Las que se convertirán en el embrión. Las células del embrión se laman células madre y tienenla capacidad de transformarse en más de 200 células de diferentes clases de cualquier parte del cuerpo (esta esla razón de investigar tratamientos de determinadas enfermedades con células madre). A los siete días el óvulo fertilizado desciende por las trompas de Falopio y llega hasta el útero (el refugio de tu bebé durante los próximos 9 meses).",
-      "mama":"Informacion sobre tu cuepo",
-      "consejo":"Aqui va un consejo"
+      "mama":"Puede que no percibas señales de embarazo hasta quelo descubras por el retraso del período aunque. por otrolado. hay mujeres  que pueden experim entar diferentes síntomas como:  Náuseas y vómitos (sobretodo por la mañana). - Aumento delvolumen de los pechos. - Fatiga. - Muchas ganas de orinar (elcrecimiento del útero hace presión sobre tu vejiga). - Sentido del olfato más desarrol ado delo habitual. -  Algún antojo .",
+      "consejo":"Si tienes cambios de actitud y vas acumulando nervios. trata de olvidar miedos e inseguri­ dades y trata de ser positiva. El embarazo es una etapa única en tu vida. idebes disfrutarla! Pero si ves algo fuera de lo normal. consulta siempre a un especialista."
     },
     {
       "id":"1",
-     "img":"/assets/images/1.png",
+     "img":"/assets/images/0.png",
      "peso":"0 gr",
      "tamano":"0.1 mm",
-     "bebe":"lhola",
-      "mama":"lhola",
-      "consejo":"lhola"
+     "bebe": "El embarazo se suele medir en semanas a partir de la última menstruación. aunque el bebé se haya concebido antes A partir de esta semana se desarrollará el embrión que consta de: - El Endodermo: dónde se formarála piel. el revestimiento interno delaparato respiratorio y digestivo.la vejiga. eltímpano. el tiroides. el     páncreas y elhígado. - El Mesordermo: aquí se formará el aparato locomotor (huesos. músculos y cartílagos), el sistema vascular (corazón. venas y arterias)",
+      "mama":"Las hormonas sexuales femeninas llamadas estrógenos. aumentan y dan una señal al útero avisando que estás embarazada. El útero empezará a crear un forro donde se acoplará elhuevo y empezará a crecer la placenta que nutrirá al bebé. Uno de los síntomas quela madre puede sentir son punzadas en loslaterales de su abdomen. un indicador de ovulación.junto a la ternura de sus pechos. El sexo delbebé se determina en elmomento de la fertilizac ión.lo que puede ocurrir al final de esta semana: de los 46 cromosomas que conforman el material",
+      "consejo":"Aunque todavía no sepas que estás embarazada. si aún no Lo has hecho. es un buen momento para dejar a un Lado Los malos hábitos como el tabaco y el alcohol. Nunca es demasiado tarde para dejar de fumar. aunque ya estés embarazada."
     },
     {
       "id":"2",
-     "img":"/assets/images/1.png",
+     "img":"/assets/images/0.png",
      "peso":"0 gr",
      "tamano":"0.1 mm",
-     "bebe":"ljasjdiajsdijaisdjisjaidji",
-      "mama":"ljasjdiajsdijaisdjisjaidji",
-      "consejo":"ljasjdiajsdijaisdjisjaidji"
+     "bebe":"Tu bebé es una bola en desarrollo de células llamada Blastocisto que se abrirá camino  a través de la Trompa de Falopio hacia la cavidad uterina. dónde allí continuará creciendo y desarrol ándose durante las proximas 37 semanas. ",
+      "mama":" Ni siquiera eres consciente de que estás embarazada, aunque a medida que tu óvulo fertilizado se implanta en el revestimiento de tu útero puedes notar algunas manchas de sangre. no debes preocuparte.   ",
+      "consejo":"Si eres fumadora, ahora es elmomento de dejarlo. Cuando fumas. más de 4.000 químicos tóxicos ingresan en tu torrente sanguíneo. que es la principal fuente de oxígeno y nutrientes del bebé y, no sólo eso. fumar puede provocar la muerte del feto. un parto prematuro o que pese poco al nacer. También es momento de buscar un profesional que siga todo tu embarazo. Si tienes amigos que ya han tenido hijos. puedes pedirles recomendaciones o preguntarle a la familia. iAsí tienes la oportunidad de compartir la qran noticia! "
+    },
+    {
+      "id":"3",
+     "img":"/assets/images/3.png",
+     "peso":"0 gr",
+     "tamano":"0.1 mm",
+     "bebe":"El Blastocisto es ahora oficialmente un embrión y está ocupado en implantarse en elrevestimiento  delútero donde la  placenta seguirá desarrollándose.En esta semana su corazoncito. su esqueleto.su sistema nervioso central y sus músculos están en un estado de desarrol o prematuro. aunque ya se pueden distinguir sus ojos como dos puntitos negros. Tu bebé a partir de esta semana crecerá una media de un milímetro al día!",
+      "mama":"Es muy probable que todavía no sepas que estás embarazada, esta es la primera semana dónde podrás obtener un resultado positivo si no te viene la menstruación. Observa tu cuerpo, puede que tengas más sueño de lo normal o más ganas de orinar. Para ser más exac tos, tendrás que esperar una semana más hasta que tu cuerpo produzca una cantidad sufic iente de la hormona hCG (Gonadotropina Coriónica Humana), esta hormona detecta cuando una mujer está embarazada. ",
+      "consejo":"Los kilogramos que deberías aumentar durantela gestación dependerán de tu peso anterior al embarazo, es decir, de tu índice de masa corporal (IMC): el IMC es una medida de asociación entre elpeso de una persona en relac ión con su altura. - Las muje res que pesan poco, con IMC inferior a 18.5, aumentarán de 13 a 18 kilos. - Las mujeres que tienen un peso normal. con IMC entre 18,5 a 24,9, aumentarán de 11a 16 kilos. - Las mujeres con sobrepeso, con IMC de 30 o  superior. aumentarán de 5 a g kilos.    "
+    },
+    {
+      "id":"4",
+     "img":"/assets/images/3.png",
+     "peso":"0 gr",
+     "tamano":"0.1 mm",
+     "bebe":"El embrión. en Las primeras semanas del embarazo. es imperceptible y tan pequeño que sólo puede verse con un microscopio. En esta etapa se dividen en tres Las capas de células:- EL endodermo: La capa superior que se convertirá en elsistema nervioso central (cerebro. médula espinal. Los nervios espinalesy  La columna vertebral).- EL mesodermo: La capa delmedio será el sistema circulatorio.- EL ectodermo: La capa inferior donde seencontrarán el intestino. Los pulmones. Las tiroides y otros órganos internos importantes.",
+      "mama":"Puede que ya hayas descubierto que estás embarazada. por elretraso de la regla o porque tu cuerpo habrá desprendido suficiente hormona hCG para ser detectada. Aunque haya muchos cambios internos. puede que no sea fácil decirlo que te está pasando realmente así que puede que notes: náuseas matutinas. vómitos o que tus pechos están mucho más sensibles. doloridos y pletóricos. sentido olfativo más desarrollado, antojos... Como también cambios emocionales.   ",
+      "consejo":"¿Sabes cuánta cafeína puedes consumir durante elembarazo? La cafeína puede atravesar la placenta y evitar la absorción de calcio. así que muchos médicos recomiendan reducir el consumo de té y café. Puedes tomar unos 300 mg de cafeína al día. aproximadamente una taza de té o café. Si eres amante del té. considerala posibilidad  de consumir menos té verde durante tres meses. ya que disminuye la eficacia delác ido fálico. esencial para prevenir defectos en el tubo neural en elprimer mes de desarrollo del bebé."
+    },
+    {
+      "id":"5",
+     "img":"/assets/images/5.png",
+     "peso":"0 gr",
+     "tamano":"0.1 mm",
+     "bebe":"iEl bebé crece a la velocidad de la luz! Triplicará su tamaño esta semana y se empezará a parecer más a un bebé. Los rasgos faciales básicos como los ojos y oídos se están desarrollando y el surco neural se habrá cerrado ya. Su pequeño corazón empieza a bombear sangre.Su cabeza es muy grande en comparac ión alresto de su cuerpo. y sus piernas y bracitospor elmomento no sobresalen mucho aunque puede que a mediados de esta semana empiece a moverlos. Aunque sus dedos aún no se distinguen. no tardarán mucho. Hay 40",
+      "mama":" A principios del primer trimestre es difícil notar un gran cambio en tu peso o tamaño de la cintura. y como ya hemos dicho en la semana 5, algunas mujeres experimentan náuseas matutinas: algo común desde la sexta semana hasta el segundo trimestre. Puede que tengas algunos delos típicos síntomas del embarazo como: congestión de nariz. exceso de salivación. estreñimiento o acidez de estómago . También puedes sentirte más temperamental y emocional de lo habitual. debido a la fluctuación de los niveles de hormonas.  ",
+      "consejo":"Evita tomar drogas. exponerte a sustancias químicas peligrosas o a radiaciones (como Los rayos X de Las radiografías) y tomar medicamentos. no es bueno ni para ti ni para tu bebé. si no están prescritas por tu médico. Normalmente el primer control prenatal se produce en esta época. Se te harán algunos análisis de sangre de forma rutinaria como: tipo de sangre (A. B. AB u 0). elfactor Rh (Rh positivo o negativo). anemia. verificac ión de inmunidad a La rubéola. diabetes. virus de Inmunodeficiencia Humana (VIH). hepatitis y enfermedades de transmisión sexual. "
+    },
+    {
+      "id":"6",
+     "img":"/assets/images/6.png",
+     "peso":"0 gr",
+     "tamano":"0.1 mm",
+     "bebe":"Alrededor de esta semana el bebé crecerá más del doble,la cola del embrión empieza a desaparecer y éste se convertirá en un feto. El cerebro de tu bebé es cada vez más complejo y está desarrollando cavidades y vías vitales para la circulación dellíquido cefalorraquídeo. Su cara cada vez está más definida: los ojos y parte del oído están en formac ión. Los bracitos, sus piernas, manos y pies también están empezando a formarse. Su corazoncito late y su esqueleto adquiere forma. La placenta se sigue formando y empezará a pasar nutrientes de tu cuerpo al bebé y retirará sus productos de desecho. ",
+      "mama":"Tienes que saber que elcuerpo de cada mujer reacciona y se desarrolla de manera diferente durante elembarazo. Es posible que ya estés aumentando de peso. pero tu abdomen todavía no se hace notar. así que aún no es evidente a La gente que te rodea. Si tienes náuseas matutinas. tal vez podrías haber perdido unos cuantos kilos. Si es tu segundo bebé. puedes experimentar elefecto Llamado calentamiento: cuando el útero y Los músculos abdominales ya se han ensanchado con anterioridad y se muestra   ",
+      "consejo":"Evita tomar drogas. exponerte a sustancias químicas peligrosas o a radiaciones (como Los rayos X de Las radiografías) y tomar medicamentos. no es bueno ni para ti ni para tu bebé. si no están prescritas por tu médico. Normalmente el primer control prenatal se produce en esta época. Se te harán algunos análisis de sangre de forma rutinaria como: tipo de sangre (A. B. AB u 0). elfactor Rh (Rh positivo o negativo). anemia. verificac ión de inmunidad a La rubéola. diabetes. virus de Inmunodeficiencia Humana (VIH). hepatitis y enfermedades de transmisión sexual. "
+    },
+    {
+      "id":"7",
+     "img":"/assets/images/7.png",
+     "peso":"0 gr",
+     "tamano":"0.1 mm",
+     "bebe":" Por ahora la cabeza de tu bebé es proporcio­nalmente mayor que el resto del cuerpo.los párpados ylas orejas ju nto conla nariz están    en desarrollo. Los dedos de las manos y los  pies se están desarrollando en los brazos y las piernas. a los cuales ahora se les distinguen muñecas y codos (incluso pueden flexionarse).     En esta etapa. elritmo cardíaco del     corazoncito de tu bebé es de alrededor de 120     a 160 latidos por minuto y su hígado ya está en funcionamiento.La placenta asumela tarea de alimentar a tu bebé a través del cordón umbilical que",
+      "mama":"Tu útero está creciendo ya que el bebé crece también. así que por ahora tu útero es casi del tamaño de un pomelo y es normal quesientas dolor abdominal. endurecimiento o un dolor de contracción. Consulta a tu médico si notas un poco de sangrado después de lascontracciones. ",
+      "consejo":"Si es tu primer embarazo. Los cambios físicos y emocionales pueden ser fuertes: ponerte en contacto con otras muje res embarazadas para tener apoyo y consejo puede ayudar a tranquilizarte y a responder algunas preguntas que te irán surgiendo. En muchas ciudades existen grupos y organizaciones de padres que te aconsejan sobre Los pasos que se deben tener en cuenta durante el embarazo. Aunque pueda parecerte una tontería. si tienes un gato. pídele a tu pareja que cambie La caja de arena para que no tengas contacto con Las heces. "
+    },
+    {
+      "id":"8",
+     "img":"/assets/images/8.png",
+     "peso":"0 gr",
+     "tamano":"0.1 mm",
+     "bebe":"Los párpados de tu bebé están formados perocerrados. no se abrirán hasta La semana 26. En esta semana La cola del embrión desaparece. Las manos y Los pies se ven deforma más clara. Los dedos de Las manos y Los de Los pies ya empiezan a definir sus huellas dactilares. Estos cambios Le dan a tu bebé una forma más humana.La cabeza es mucho mayor que el resto delcuerpo y el feto pasará de estar completa­ mente quieto a moverse o tener espasmos de vez en cuando. aunque tú no Los notes. Los órganos reproductivos internos de tu bebé(test ícLJlos l J   ovdrios) se están empezando",
+      "mama":"Tu cintura se está ensanchando, pero aún no te ves embarazada aunque notes Las típicas molestias de Los primeros meses: acidez. gases. náuseas, cambios de actitud...Uno de Los cambios que tendrás en tu interiores elvolumen de sangre: tu cuerpo producirá un 50% más de sangre y tu corazón no parará de bombear sangre por todo tu cuerpo (es La manera que tu cuerpo ayuda a que tu úterocrezca y Lleve más oxígeno y nutrientes a tu bebé). Tus vasos sanguíneos se dilatarán más rápido, ahí La razón de que puede ser que tengas dificultad para respirar.   ",
+      "consejo":"Si es tu primer embarazo. Los cambios físicos y emocionales pueden ser fuertes: ponerte en contacto con otras muje res embarazadas para tener apoyo y consejo puede ayudar a tranquilizarte y a responder algunas preguntas que te irán surgiendo. En muchas ciudades existen grupos y organizaciones de padres que te aconsejan sobre Los pasos que se deben tener en cuenta durante el embarazo. Aunque pueda parecerte una tontería. si tienes un gato. pídele a tu pareja que cambie La caja de arena para que no tengas contacto con Las heces. "
+
+    },
+    {
+      "id":"9",
+     "img":"/assets/images/9.png",
+     "peso":"0 gr",
+     "tamano":"0.1 mm",
+     "bebe":"Esta semana marca elcomienzo de un período dónde todos los órganos vitales de tu bebé se han formado y están empezando a funcionar. Tambiénle están creciendo las uñitas de los dedos de las manos y las de los pies. como también sus minúsculos dientes. Entre esta semana yla 14 podrás hacerte tu primera ecografía para poder comprobar el ritmo cardíaco de tu bebé y si hay sorpresa y tienes gemelos.  Esta semana marca elcomienzo de un período dónde todos los órganos vitales de tu bebé se han formado y están empezando a funcionar. Tambiénle están creciendo las uñitas de los dedos de las manos y las de los pies. como también sus minúsculos dientes. Entre esta semana yla 14 podrás hacerte tu primera ecografía para poder comprobar el ritmo cardíaco de tu bebé y si hay sorpresa y tienes gemelos.   ",
+      "mama":"Podrías empezar a sentir un poco ajustada tu ropa normal. sobretodo en Las tallas de Los sujetad ores, pero esto suele ser por La hinchazón: un síntoma común causado por La desaceleración de tu sistema digestivo que está trabajando  mucho para  aumentar La absorción de todos Los nutrientes de Los alimentos que comes. En esta semana si tienes un examen prenatal. pregúntale a tu médico todas Las dudas que tengas en mente y no te olvides de facilitarle toda La información que sea necesaria y relevante.  ",
+      "consejo":"Puede que sufras estreñimiento durante el embarazo y tengas gases, estos síntomas se deben a que estás produciendo mucha progesterona que relaja ciertas fibras musculares. Eltránsito dentro delintestino se ralentiza con digestioneslentas provocando la consecuente hinchazón por elestreñimiento ylos gases. Cuanto mayor sea la cantidad de comida, más posibilidades hay de que sientas malestar. Por eso, es bueno hacer varias comidas ligeras a lo largo del día en lugar de tres grandes.   "
+    },
+    {
+      "id":"10",
+     "img":"/assets/images/10.png",
+     "peso":"0 gr",
+     "tamano":"0.1 mm",
+     "bebe":"Lo mejor de esta semana es que la parte más crítica. eldesarrollo de los órganos. ya ha terminado.Enla próxima semana tu bebé duplicará su tamaño. Ya empieza a desarrol ar sus propios glóbulos rojos y a producir orina. Las orejas de tu bebé se están posicionando hacia ambos lados de la cabeza y los órganos reproductivos se distinguen cada vez más. En elcaso que sea chico sus testíc ulos empezarán a producir testosterona (hormona masculina).",
+      "mama":"Las muje res embarazadas experimentan náu seas matutinas. pero tranquila. este malestar disminuye cuando Llega el segundo trimestre y te sentirás menos cansada. Aunque todo depende del organismo de cada muje r. Puedes experimentar un cambio en el sentido delolfato. tenerlo más pronunciado y salivar mas. Tu útero está comenzando a ser demasiado grande para que quepa en La pelvis. así que comenzará a Levantarse tu abdomen durante Las próximas semanas. ",
+      "consejo":"Después de realizarte pruebas previas como el análisis de orina y de sangre puede que te recomienden hacer La prueba de TN (Trans­ Lucencia Nucal), no agrede ni a ti ni al bebé y sirve para evaluar el riesgo de que tu bebé sufra Síndrome de Down y otras anomalías cromosómicas. Si decides hacértela. ésta se deberá Llevar a cabo entre Las semanas 11y 14.¿Cómo se realiza elexamen? Se utiliza una técnica de ultrasonido que mide el espacio transparente que hay en eltejido. que se encuentra en La nuca del bebé. En el caso que haya alguna anomalía."
+    },
+    {
+      "id":"11",
+     "img":"/assets/images/11.png",
+     "peso":"0 gr",
+     "tamano":"0.1 mm",
+     "bebe":"El perfil de tu bebé está cada vez más definido: los ojos se han desplazado hac ia la parte delantera de la cara.la barbilla y la nariz han tomado más forma. Las uñas ya están bien formadas y pronto podrá abrir y cerrar las manos ylos pies. También se formarán las cuerdas vocales y sus riñones ya están en funcionamiento. así que élmismo podrá tragar líquido amniótico y desecharlo mediante la orina. El pequeño cerebro de tu bebé continúa en desarrollo y la sinapsis (unión intercelular especializada entre neuronas) está creciendo  ",
+      "mama":"iTu vientre está más grande! El útero sigue creciendo fuera del área dela pelvis, puedes hasta sentir la parte superior de tu útero a unos cuantos centímetros por debajo de tu ombligo. También puedes notar cambios en tu piel: como un aumento enla pigmentación de la cara (cloasma gravídico o máscara del embarazo), de muslos. de la pielperineal, de lunares que ya tenías y puede aparecer una línea oscura entre el pubis y el ombligo, como también un aumento dela sudoración. ",
+      "consejo":"Debes controlar tu peso y es recomendable hacer ejercicio físico moderado. De todas maneras consúltalo con tu especialista. Según algunas asociaciones.las embarazadas pueden consumir semanalmente 340 gramos de pescado bajo en mercurio. para mejorar el desarrollo cerebral del bebé: - Pescados que tienen más mercurio: mero.pez aguja , el blanquillo. el pez espada. el tiburón o la caballa. entre otros. - Pescados bajos en mercurio: anchoas. pez mantequilla. calamar. caviar (de granja).   "
+    },
+    {
+      "id":"12",
+     "img":"/assets/images/12.png",
+     "peso":"0 gr",
+     "tamano":"0.1 mm",
+     "bebe":"iEmpieza elsegundo trimestre! Hasta ahora la cabeza de tu bebé ha sido proporcionalmente mayor al resto de su cuerpo. pero a partir de esta semana su cuerpo crecerá más proporcionalmente al tamaño de su cabeza. Dentro de tu vientre elbebé empieza a mostrar sus habilidades motoras: es capaz de moverse. de flexionar los brazos y las piernas.   y pronto comenzará a chuparse eldedo. Estos movimientos son los que sentirás más tarde.  ",
+      "mama":"Se reduce el riesgo de aborto involuntario y te entirás más aliviada ya quelos síntomas de náuseas matutinas comenzarán a disminuir. tendrás un poco más de energía. Tu cuerpo está cambiando. aunque no tengas esas náuseas matutinas tan desagradables.  as secreciones como elsudor.la saliva y el flujo vaginal. son más abundantes. El olfato  se agudiza. hasta elpunto que algunos olores  fuertes pueden producirte náuseas.      ",
+      "consejo":"A partir de esta semana las náuseas empezarán a desaparecer. Debes cuidar tu alimentación.los abusos alimentarios son malos. no hay que comer por dos durante el embarazo. habla con tu especialista sobre una dieta equilibrada según tu situación. Disminuye o evita el consumo de grasas y fritos y, cuidado conlas carnes crudas. ya  que pueden estar contaminadas con listeria que puede causarte un aborto involuntario (atraviesa la placenta y puede infectar al bebé  causándole envenenamiento enla sangre o una infección).    "
+    },
+    {
+      "id":"13",
+     "img":"/assets/images/13.png",
+     "peso":"0 gr",
+     "tamano":"0.1 mm",
+     "bebe":"En esta semana tu bebé empezará a hacer expresiones con la cara y sus primeros movimientos con la cabeza: un ceño fruncido o moverla de unlado para otro. A algunos bebésles puede comenzar a crecer el pelo en la cabeza. enla cara o enlas cejas. Las estructuras básicas de su cuerpo. tanto dentro como fuera. están formadas aunque aún deben desarrollarse y crecer más. Si elbebé es un niña sus óvulos se han desarrollado dentro de sus ovarios. y si es un niño su glándula de la próstata se está desarrollando. ",
+      "mama":" Tu figura ha aumentado lo suficiente como para notarlo, tu útero está justo arriba de tu hueso púbico.lo que hace que tu vientre sobresalga un poco y hace más evidente la presencia de tu bebé. A partir de esta semana sentirás tus senos menos sensibles y las náuseas seguirán disminuyendo.  ",
+      "consejo":"Visita a tu médico y puede que te recete vitaminas prenatales. Estas.junto a una dieta equilibrada y algo de ejercicio . ayudarán al bebé a tener todos Lo minerales y vitaminas necesarios para un buen crecimiento. Las proteínas son vitales para elcrecimiento de tu bebé, forman y reparan todos Los tejidos. sintetizan hormonas. anticuerpos y enzimas; proporcionan fuentes de energía que no tienes. Especialmente durante el segundo y tercer trimestre necesitas unos 70 gramos de proteínas al día. Algunas fuentes de proteínas son el pavo. "
+    },
+    {
+      "id":"14",
+     "img":"/assets/images/14.png",
+     "peso":"0 gr",
+     "tamano":"0.1 mm",
+     "bebe":"EL pelo de La cabeza de tu bebé está creciendo y alrededor de su cuerpo todavía hay vello fino (Llamado Lanugo) para protegerse de La exposición del Líquido amniótico. La piel de tu bebé es tan fina que si pudieras ver dentro de tu vientre verías La formación de sus pequeños vasos sanguíneos debajo de ésta. Algunos bebés pueden empezar a chuparse elpulgar de su mano. Tu bebé empieza a desplazarse por el espacio delLíquido am­ niótico que Le rodea, y Le permite así ejercitar sus músculos. Puede que tu bebé empiece a realizar movimientos con La cabeza, La boca,  ",
+      "mama":"Cada semana notarás cambios en tu cuerpo y tu estado anímico. no te preocupes. puede que te vuelvas más olvidadiza o despistada. es normal. mantén la calma ya que estos síntomas son pasaje ros.Tu cuerpo sigue produciendo más sangre este mes. es importante que ingieras suficiente hierro en tu dieta para aguantar el ritmo de producción de glóbulos rojos y evitar anemia. La producción de sangre puede ser la causa de hinchazón de las membranas mucosas y ocasionarte una nariz congestionada o hemorragias nasales. ",
+      "consejo":"Visita a tu médico y puede que te recete vitaminas prenatales. Estas.junto a una dieta equilibrada y algo de ejercicio . ayudarán al bebé a tener todos Lo minerales y vitaminas necesarios para un buen crecimiento. Las proteínas son vitales para elcrecimiento de tu bebé, forman y reparan todos Los tejidos. sintetizan hormonas. anticuerpos y enzimas; proporcionan fuentes de energía que no tienes. Especialmente durante el segundo y tercer trimestre necesitas unos 70 gramos de proteínas al día. Algunas fuentes de proteínas son el pavo. "
+
+    },
+    {
+      "id":"15",
+     "img":"/assets/images/15.png",
+     "peso":"0 gr",
+     "tamano":"0.1 mm",
+     "bebe":"Sus órganos están más desarrolados. ya tiene Los brazos y Las piernas más Largos y controla sus movimientos (aunque no Lo notes). Ahora el sistema esquelético de tu bebé se está desarrolando. y más a medida que el calcio se deposita en sus huesos. así que durante Las próximas semanas el peso de tu bebé se duplicará. Incluso puede desarrollar el reflejo de presión y, a partir de esta semana. agarrar sus propias manos. sus pies o puede que el cordón umbilical. ",
+      "mama":" Los síntomas del primer trimestre están desapareciendo. te sentirás mejor. Si notas un estiramiento o molestia abdominal se debe a que los ligamentos se están estirando y se engrosan para sostener a tu útero en crecimiento.",
+      "consejo":"La prueba delCuádruple Marcador se recomienda para detectar si tu bebé puede tener Síndrome de Down y defectos del tubo neural. Se debe realizar entre las semanas 15 y 20 del embarazo. contadas a partir del último período menstrual. Es un procedimiento que detecta La cantidad de cuatro sustancias enla sangre para determinar la probabilidad de que los marcadores se asocien conla presencia de la patología delSíndrome de Down. Las 4 sustancias medidas son: 1. Alfa-fetoproteína (AFP)   "
+    },
+    {
+      "id":"16",
+     "img":"/assets/images/16.png",
+     "peso":"0 gr",
+     "tamano":"0.1 mm",
+     "bebe":"Ya domina reflejos tan simples como la succión y el parpadeo, hasta puede tener un ataque de hipo. Se formará una grasa por debajo de su piel cuyo fin es proteger y preparar al bebé para el cambio de temperatura del interior de tu vientre al mundo exterior. La placenta sigue creciendo: provee de nutrientes y oxígeno al feto, a parte también de encargarse de la eliminación de sus desechos.  ",
+      "mama":"Durante elsegundo trimestre muchas mujeres notan un aumento en eltamaño de su vientre y de su pecho, si no habías notado eldolor delligamento redondo, puede quelo sientas ahora cuando el útero sigue aumentando de tamaño y empujando tus intestinos hacia arriba. Si tienes suerte puede que hayas notado las pataditas de tu bebé por primera vez !qué emoción!   ",
+      "consejo":"Tu necesidad de hierro se duplicará para poder  adecuarse  al aumento  del volumen sanguíneo y a Los cambios que sufre tu cuerpo. EL hierro produce hemoglobina (proteína esencial en Los glóbulos rojos). que transporta oxígeno hacia Los tejidos. Si no ingieres alrededor de 27 gramos de hierro al día. puede que te sientas más can­ sada y seas más propensa a Las infecciones. aumentando así el riesgo de parto prematuro. Como ya hemos dicho antes. grandes fuentes de hierro son Las carnes rojas magras. el pol o. el pescado. Las nueces y Los frutos secos.  "
+    },
+    {
+      "id":"17",
+     "img":"/assets/images/17.png",
+     "peso":"0 gr",
+     "tamano":"0.1 mm",
+     "bebe":"Esta semana el bebé seguirá creciendo pero a un ritmo más Lento. Las cuerdas vocales de tu bebé ya funcionan y podría ponerse a Llorar. Muchos de Los huesos del cuerpo de tu bebé están empezando a endurecerse. primera­ mente entre ellos el oído interno. que pro­ vocará que tu bebé pueda escuchar sonidos como Los Latidos de tu corazón o eltrayecto de La sangre a través del cordón umbilical. Es posible que al fin puedas sentir algunos de Los movimientos de tu bebé. ",
+      "mama":"Durante este segundo trimestre de embarazo es probable que notes un aumento en tu apetito iesas ganas de comer tremendas! Estás en una etapa en La que tu cuerpo necesita 300 calorías adicionales para ayudar a tu bebé a crecer y a desarrollarse. así que es importante una alimentación sana. con proteínas suficientes. La barriga y tus pechos crecerán bastante a Lo Largo de estas semanas. ¿has comprado ya ropa de premamá y sujetadores más grandes? Puede que Los necesites. ",
+      "consejo":"Los Lácteos constituyen una buena fuente de calcio importante para elbebé. para sus huesos y dientes. Ingiere aproximadamente unos 1.200 a 1.500 mg al día. Evita La Leche no pasteurizada que. a menudo. se encuentra en quesos blandos como el feta. Camembert. el Brie o Roquefort. porque pueden causar una intoxicac ión conocida como Listeriosis. Cerca de esta semana tocaría La segunda eco­ grafía en La que se analizará el ritmo de creci­ miento de tu bebé y su anatomía. Se podrán predecir posibles complicaciones en ella.   "
+    },
+    {
+      "id":"18",
+     "img":"/assets/images/18.png",
+     "peso":"0 gr",
+     "tamano":"0.1 mm",
+     "bebe":"Los sentidos de tu bebé se están desarrollando al igual quelas áreas especializadas del cerebro: olfato, gusto, oído, vista y tacto. Millones de neuronas motoras se desarrol an en el cerebro de tu bebé permitiendo que haga más movimientos controlados y conscientes. Te darás cuenta que, en ciertos momentos, puede que parezca que el bebé está dormido y otros que se mueva mucho, eso es porque se despierta con mucha energía.Los primeros movimientos delbebé se llaman aceleración y muchas mujeres lo describen como sentir mariposas en elestómago",
+      "mama":" Tu barriga es cada vez más evidente y Las personas de tu alrededor ya van notando tus cambios físicos. Si sientes dolor de espalda. no te preocupes. es normal. La mayoría de mujeres embaraza­ das comienzan a experimentarlo y también dolor abdominal, causado por Los aumentos hormonales. Estos relajan Los músculos de   lrededor de tu cintura y así permiten que tu útero crezca. Puede que te salgan varices por La hinchazónde Las piernas. ",
+      "consejo":"En relación al alcohol. no se sabe con certeza la cantidad de alcohol que puede consumir una madre para que no hayan problemas durante elembarazo. pero el peligro está en que su consumo durante éste puede causar el Síndrome de Alcoholismo Fetal(FAS). Los bebés que nacen con FAS. pueden crecer máslentamente. presentar daños en el sistema nervioso central o tener rasgos faciales no normales.     "
+    },
+    {
+      "id":"19",
+     "img":"/assets/images/19.png",
+     "peso":"0 gr",
+     "tamano":"0.1 mm",
+     "bebe":"En esta etapa tu bebé estirado mide unos 20 cm y encogido 16,5 cm. Esa capa grasosa que se encuentra debajo la pielde tu bebé protegerá su piely evitará que se raye o agriete. Aunque ellíquido amniótico distorsiona los sonidos (como si estuvieras debajo del agua) tu bebé ya puede escucharte. reconocerla música, el latir de tu corazón o tu respiración. Tu bebé está comenzando a producir meco­ nio, que es la sustancia que sale al final de su digestión y que se acumula en sus entrañas.",
+      "mama":" iYa estás oficialmente en La mitad de tu embarazo! En esta etapa tu útero está al mismo nivel que tu ombligo y puede que hayas aumentado de peso. Notarás que te quedas sin aliento a medida que el útero se acerca a Lo pulmones. te costará más respirar y tu ritmo cardíaco se acelerará porque tu corazón bombea mayor cantidad de sangre por todo tu cuerpo. Si estás más cansada de Lo normal o tienes más sueño. descansa. has vivido muchos cambios desde Las primeras semanas. es hora de dormir.",
+      "consejo":"Siempre que sea posible trata de reducir el comer alimentos como las salchichas o los embutidos  amón. salchichón.longaniza. tocino...). Estos alimentos contienen nitrato de sodio (un conservante de alimentos), son muysalados y también pueden ser cancerígenos.     "
+    },
+    {
+      "id":"20",
+     "img":"/assets/images/20.png",
+     "peso":"0 gr",
+     "tamano":"0.1 mm",
+     "bebe":"El sistema digestivo de tu bebé comenzará a tragar líquido amniótico y a absorber pequeñas cantidades de azúcar, pero la mayoría delos nutrientes delbebé vienen todavía dela placenta. Dentro de tu útero, mientras haya espacio, !tu bebé no parará de moverse! Da vueltas, patalea, hace estiramientos, prueba posiciones... Todos estos movimientos sirven para estimular su desarrol o mental y físico. !Porlas noches puede que hasta no te deje dormir!  ",
+      "mama":"Este suele ser el período más cómodo de tu primer embarazo:las molestias del primer trimestre han disminuido y ya te has acostum­ brado a muchos de los cambios de tu cuerpo.  Estás empezando a disfrutar de tu embarazo. Tu barriga aún no está muy grande y las   molestias delprimer trimestre (como las náuseas) son ahora mucho más leves, relájate y disfruta de este momento. ",
+      "consejo":"Si es tu primer embarazo. Los cambios físicos y emocionales pueden ser fuertes: ponerte en contacto con otras muje res embarazadas para tener apoyo y consejo puede ayudar a tranquilizarte y a responder algunas preguntas que te irán surgiendo. En muchas ciudades existen grupos y organizaciones de padres que te aconsejan sobre Los pasos que se deben tener en cuenta durante el embarazo. Aunque pueda parecerte una tontería. si tienes un gato. pídele a tu pareja que cambie La caja de arena para que no tengas contacto con Las heces. "
+      
     }
  ]

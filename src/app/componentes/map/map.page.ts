@@ -1,62 +1,44 @@
-import { Component, OnInit } from '@angular/core';
-import { Geolocation } from '@ionic-native/geolocation/ngx';
-import { LoadingController } from '@ionic/angular';
+import { Component, OnInit,ElementRef, ViewChild  } from '@angular/core';
+import leaflet from 'leaflet';
 
-declare var google;
 @Component({
   selector: 'app-map',
   templateUrl: './map.page.html',
   styleUrls: ['./map.page.scss'],
 })
-export class MapPage implements OnInit {
-
+export class MapPage {
+  map: any;
   mapRef = null;
-
-  constructor(
-    private geolocation: Geolocation,
-    private loadingCtrl: LoadingController
-  ) {
-
+  @ViewChild('map', {static: false}) mapContainer: ElementRef;
+  constructor() {}
+  
+  ionViewDidEnter() {
+    this.loadmap();
   }
-
-  ngOnInit() {
-    this.loadMap();
+ 
+  loadmap() {
+    this.map = leaflet.map("map").fitWorld();
+    leaflet.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attributions: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+      maxZoom: 18
+    }).addTo(this.map);
+    this.map.locate({
+      setView: true,
+      maxZoom: 15
+    }).on('locationfound', (e) => {
+      let markerGroup = leaflet.featureGroup();
+      let marker: any = leaflet.marker([e.latitude, e.longitude]).on('click', () => {
+        alert('Tu posicion');
+      })
+      let marker1: any = leaflet.marker([e.latitude, e.longitude]).on('click', () => {
+        alert('Tu posicion');
+      })
+      markerGroup.addLayer(marker);
+      this.map.addLayer(markerGroup);
+      }).on('locationerror', (err) => {
+        alert(err.message);
+    })
+    
+ 
   }
-
-  async loadMap() {
-    const loading = await this.loadingCtrl.create();
-    loading.present();
-    const myLatLng = await this.getLocation();
-    const mapEle: HTMLElement = document.getElementById('map');
-    this.mapRef = new google.maps.Map(mapEle, {
-      center: myLatLng,
-      zoom: 14
-    });
-    google.maps.event
-    .addListenerOnce(this.mapRef, 'idle', () => {
-      loading.dismiss();
-      this.addMaker(myLatLng.lat, myLatLng.lng);
-      this.addMaker(11.232387,-74.195078);
-      this.addMaker(11.236131,-74.202009);
-
-
-    });
-  }
-
-  private addMaker(lat: number, lng: number) {
-    const marker = new google.maps.Marker({
-      position: { lat, lng },
-      map: this.mapRef,
-      title: 'Posicion actual'
-    });
-  }
-
-  private async getLocation() {
-    const rta = await this.geolocation.getCurrentPosition();
-    return {
-      lat: rta.coords.latitude,
-      lng: rta.coords.longitude
-    };
-  }
-
 }
