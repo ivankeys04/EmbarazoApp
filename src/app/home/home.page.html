@@ -11,14 +11,11 @@
 </ion-header>
 
 <ion-content fullscreen color="claro">
-  <div style="position: absolute;top: 50%;left: 16px;font-size: 25px;z-index: 2;" (click)="slidePrev()">
-    <ion-icon name="arrow-back"></ion-icon>
-  </div>
-  <div style="position: absolute;top: 50%;right: 16px;font-size: 25px;z-index: 2;" (click)="slideNext()">
-    <ion-icon name="arrow-forward"></ion-icon>
-  </div>
-    <ion-slides paginationType="bullets" slidesPerView="1" pager="true" class="slide-full" >   
-        <ion-slide *ngFor="let slide of data | async">
+
+    <ion-slides class="slide-full" >   
+
+      <ion-slide *ngFor="let slide of data | async">
+
           <ion-card color="claro">
             <ion-card-header >
                 <ion-title class="ion-text-center" color="secondary">
@@ -90,7 +87,7 @@
                     </ion-fab-list>
                   </ion-fab>
               </ion-footer>
-            
+            Deslice
           </ion-card>
           
         </ion-slide>

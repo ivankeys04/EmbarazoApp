@@ -5,7 +5,7 @@ import { DataService } from '../servicios/data.service';
 import { Observable } from 'rxjs';
 import { SocialSharing } from '@ionic-native/social-sharing/ngx';
 import { Router } from "@angular/router";
-import {IonSlides} from '@ionic/angular';
+
 @Component({
   selector: 'app-home',
   templateUrl: 'home.page.html',
@@ -18,9 +18,6 @@ export class HomePage implements OnInit{
   toastCtrl: any;
   text: 'Hola estoy embarazada';
   url: 'google.com';
-
-  @ViewChild('slides', { read: true, static: false }) ionSlides: IonSlides;
-
   constructor(public authservice : AuthService, 
     public actionSheetController: ActionSheetController,
     private dataService: DataService,
@@ -34,13 +31,7 @@ export class HomePage implements OnInit{
     Onlogout(){
       this.authservice.logout();
     }
-    
-      slidePrev() {
-        this.ionSlides.slidePrev();
-      }
-      slideNext() {
-        this.ionSlides.slideNext();
-      }
+
 
     shareTwitter(){
 
